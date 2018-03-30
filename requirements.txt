@@ -1,0 +1,5 @@
+numpy
+matplotlib
+tabulate
+networkx
+pulp
